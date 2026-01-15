@@ -1,0 +1,2 @@
+iter,status,SSE,SSE_next,improve_ratio,a,s,step_norm,cond,b1,b2,b3,b4,b5
+0,ABSTAIN_SINGULAR,87848.85333348386,nan,nan,0.0,0.0,inf,7767713805621.658,50.0,150.0,-100.0,1.0,2.0
